@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.5.0)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.5.9)
+  - JGProgressHUD (2.2)
+  - Kingfisher (7.1.2)
+  - SwiftLint (0.46.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - JGProgressHUD
+  - Kingfisher
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - JGProgressHUD
+    - Kingfisher
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  Kingfisher: 44ed6a8504763f27bab46163adfac83f5deb240c
+  SwiftLint: ae76d82f056734f853c8cd0371503252c606c482
+
+PODFILE CHECKSUM: 589438ebd1b776d18e4f5246895436ce83be55dc
+
+COCOAPODS: 1.11.2
